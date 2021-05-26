@@ -3,7 +3,7 @@
     "displayName": "123Code",
     "publisher": "holgerimbery",
     "description": "a extension pack for starting to develop without worrying to destroy your machine",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/holgerimbery/123Code"},
@@ -16,6 +16,6 @@
     "extensionPack": [ 
         "ms-vscode-remote.vscode-remote-extensionpack",
         "Alexey-Strakh.stackoverflow-search",
-        "wraith13.windows-terminal"
+        "tyriar.windows-terminal"
     ]
 }
