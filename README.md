@@ -4,7 +4,8 @@
 
 _123Code_ is a curated set of VS Code extensions for **starting to develop without worrying to destroy your machine**.
 
-**Contributions are welcome:** if you come across an extension that enhances your productivity, please feel free to submit a pull request to add it!
+### Tutorial
+how to setup a development in environment with zero footprint on your machine (WIP)
 
 
 | Included extension | How can it help? |
@@ -14,3 +15,7 @@ _123Code_ is a curated set of VS Code extensions for **starting to develop witho
 | [Remote WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) - Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set. <br /><br /> | <ol>lets you use VS Code in WSL just as you would from Windows.</ol> |
 | [Windows Terminal Utility](https://marketplace.visualstudio.com/items?itemName=wraith13.windows-terminal) - Windows Terminal Utility for VS Code. <br /><br /> | <ol><li>Open Windows Terminal from Command Palette</li><li>Open Windows Terminal from Status bar</li><li>Open Windows Terminal' settings.json</li> </ol> |
 | [Stack Overflow Search](https://marketplace.visualstudio.com/items?itemName=gcrev93.StackSearchExt) - Extension made to do a stack overflow search straight from VSCode <br /><br /> | <ol><li>Stack Search: With this command you will be able to search anything you want from the VS code input bar</li><li>Selection Stack Search: With this command you will automatically open a search for selected text in your document</li></ol> 
+
+
+### Contributions are welcome
+if you come across an extension that enhances your productivity, please feel free to submit a pull request to add it!
