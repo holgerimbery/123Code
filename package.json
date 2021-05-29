@@ -16,6 +16,7 @@
     "extensionPack": [ 
         "ms-vscode-remote.vscode-remote-extensionpack",
         "Alexey-Strakh.stackoverflow-search",
+        "ms-vsliveshare.vsliveshare-pack",
         "tyriar.windows-terminal"
     ]
 }
