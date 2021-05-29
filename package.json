@@ -17,7 +17,7 @@
         "ms-vscode-remote.vscode-remote-extensionpack",
         "Alexey-Strakh.stackoverflow-search",
         "ms-vsliveshare.vsliveshare-pack",
-        "tyriar.windows-terminal""0.0.2",
+        "tyriar.windows-terminal",
         "vsls-contrib.gistfs"
     ]
 }
