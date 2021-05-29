@@ -5,7 +5,7 @@
 _123Code_ is a curated set of VS Code extensions for **starting to develop without worrying to destroy your machine**.
 
 ### Tutorial
-how to setup a development in environment with zero footprint on your machine (WIP)
+[How to develop in remote environments](https://code.visualstudio.com/docs/remote/remote-overview)
 
 
 | Included extension | How can it help? |
