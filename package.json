@@ -2,8 +2,8 @@
     "name": "123code",
     "displayName": "123Code",
     "publisher": "holgerimbery",
-    "description": "a extension pack for starting to develop without worrying to destroy your machine",
-    "version": "0.0.4",
+    "description": "a extension pack for starting to develop without worrying about to destroy your machine",
+    "version": "0.0.5",
     "repository": {
         "type": "git",
         "url": "https://github.com/holgerimbery/123Code"},

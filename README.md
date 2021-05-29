@@ -2,7 +2,7 @@
 
 > **_NOTE:_**  It is **strongly recommended** that you use the [Insiders Edition of Visual Studio Code](https://code.visualstudio.com/insiders/), which is updated daily, and includes the latest and most up-to-date features for the Python extension, Live Share, Codespaces, native notebooks, and more.
 
-_123Code_ is a curated set of VS Code extensions for **starting to develop without worrying to destroy your machine**.
+_123Code_ is a curated set of VS Code extensions for **starting to develop without worrying about to destroy your machine**.
 
 ### Tutorial
 [How to develop in remote environments](https://code.visualstudio.com/docs/remote/remote-overview)
