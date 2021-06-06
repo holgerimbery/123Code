@@ -21,3 +21,7 @@ _123Code_ is a curated set of VS Code extensions for **starting to develop witho
 
 ### Contributions are welcome
 if you come across an extension that enhances your productivity, please feel free to submit a pull request to add it!
+
+### .devcontainer - as a proof of concept
+The extionsion pack itself is being created with this ideas and elements. 
+vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
