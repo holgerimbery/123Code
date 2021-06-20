@@ -1,3 +1,9 @@
+## v0.0.8 (06/20/2021)
+
+- Added the [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- Added the [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer)
+
+
 ## v0.0.7 (06/18/2021)
 
 - Added the [Azure Virtual Machines](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines) (preview)

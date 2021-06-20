@@ -3,7 +3,7 @@
     "displayName": "123Code",
     "publisher": "holgerimbery",
     "description": "a extension pack for starting to develop without worrying about to destroy your machine",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "repository": {
         "type": "git",
         "url": "https://github.com/holgerimbery/123Code"},
@@ -21,6 +21,8 @@
         "tyriar.windows-terminal",
         "vsls-contrib.gistfs",
         "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurevirtualmachines"
+        "ms-azuretools.vscode-azurevirtualmachines",
+        "ms-azuretools.vscode-docker",
+        "formulahendry.docker-explorer"
     ]
 }
