@@ -4,6 +4,21 @@
 
 _123Code_ is a curated set of VS Code extensions for **starting to develop without worrying about to destroy your machine**.
 
+## prepare your environment in 1, 2, 3 seconds and then begin to code
+
+**123Code** allows you to use a container, remote machine, or the [Windows Subsystem for Linux](https://docs.microsoft.com/windows/wsl) (WSL) as a full-featured development environment. You can:
+
+* Develop on the **same operating system** you deploy to or use **larger or more specialized** hardware.
+* **Separate** your development environment to avoid impacting your local **machine configuration**.
+* Make it easy for new contributors to **get started** and keep everyone on a **consistent environment**.
+* Use tools or runtimes **not available** on your local OS or manage **multiple versions** of them.
+* Develop your Linux-deployed applications using the **Windows Subsystem for Linux**.
+* Access an **existing** development environment from **multiple machines or locations**.
+* Debug an **application running somewhere else** such as a customer site or in the cloud.
+
+No source code needs to be on your local machine to get these benefits. Each extension in the Remote Development extension pack can run commands and other extensions directly inside a container, in WSL, or on a remote machine so that everything feels like it does when you run locally.
+
+
 ## Tutorial
 [How to develop in remote environments](https://the.cognitiveservices.ninja/blog/2021/05/30/visual-studio-code-remote-development.html)
 
