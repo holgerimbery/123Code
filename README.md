@@ -110,3 +110,4 @@ if you come across an extension that enhances your productivity, please feel fre
 The extionsion pack itself is being created with this ideas and elements. 
 vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
 
+![made in berlin](https://github.com/holgerimbery/123Code/blob/main/made-in-berlin-badge.png)
