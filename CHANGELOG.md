@@ -1,3 +1,8 @@
+## v0.0.9 (06/24/2021)
+
+- cosmetics in description and hints on devcontainers
+
+
 ## v0.0.8 (06/20/2021)
 
 - Added the [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
