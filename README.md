@@ -24,6 +24,8 @@ No source code needs to be on your local machine to get these benefits. Each ext
 
 ## Video
 [![Demo](https://i9.ytimg.com/vi/8CSLgsIS_2k/mq1.jpg?sqp=COiX0YYG&rs=AOn4CLD1grXQo91nt1Z4VMzZocjP4SUgTw)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
+* "open" a repostitory to edit, without cloning it to a local filesystem
+* clone a repository to a container to edit or take actions on it, here: execute a task
 
 
 ## Elements of the extension pack
