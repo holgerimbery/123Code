@@ -110,4 +110,10 @@ if you come across an extension that enhances your productivity, please feel fre
 The extionsion pack itself is being created with this ideas and elements. 
 vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
 
+### places to get container definitions to work completely independent
+* in the remote container extension based on [Microsofts devcontainers](https://github.com/microsoft/vscode-dev-containers)
+* a boilerplate for [machine learning with vscode and Azure ML](https://github.com/holgerimbery/devcontainer_azure_ml_experiments)
+* a boilerplate for [.net interactive notebooks](https://github.com/holgerimbery/devcontainer_dotnet_interactive_notebooks)
+
+
 ![made in berlin](https://github.com/holgerimbery/123Code/blob/main/made-in-berlin-badge.png)
