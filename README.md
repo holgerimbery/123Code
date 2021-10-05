@@ -20,7 +20,7 @@ No source code needs to be on your local machine to get these benefits. Each ext
 
 
 ## Tutorial
-[How to develop in remote environments](https://the.cognitiveservices.ninja/blog/2021/05/30/visual-studio-code-remote-development.html)
+[How to develop in remote environments](https://the.cognitiveservices.ninja/blog/#visual-studio-code-remote-development)
 
 ## Video
 [![Demo](https://j.gifs.com/MZ9ElB.gif)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
