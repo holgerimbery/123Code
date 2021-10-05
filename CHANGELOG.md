@@ -1,3 +1,7 @@
+## v0.1.0 (10/05/2021)
+
+- Added the [Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard)
+
 ## v0.0.9 (06/24/2021)
 
 - cosmetics in description and hints on devcontainers
