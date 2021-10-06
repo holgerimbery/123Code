@@ -24,7 +24,7 @@ No source code needs to be on your local machine to get these benefits. Each ext
 
 ## Video
 [![Demo](https://j.gifs.com/MZ9ElB.gif)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
-* "open" a repostitory to edit, without cloning it to a local filesystem
+* "open" a repository to edit, without cloning it to a local filesystem
 * clone a repository to a container to edit or take actions on it, here: execute a task
 
 
@@ -117,11 +117,11 @@ You can open, create, delete, fork and star gists and repositories, and then sea
 if you come across an extension that enhances your productivity, please feel free to submit a pull request to add it!
 
 ## .devcontainer - as a proof of concept
-The extionsion pack itself is being created with this ideas and elements. 
+The extension pack itself is being created with this ideas and elements. 
 vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
 
 ### places to get container definitions to work completely independent
-* in the remote container extension based on [Microsofts devcontainers](https://github.com/microsoft/vscode-dev-containers)
+* in the remote container extension based on [Microsoft's devcontainers](https://github.com/microsoft/vscode-dev-containers)
 * a boilerplate for [machine learning with vscode and Azure ML](https://github.com/holgerimbery/devcontainer_azure_ml_experiments)
 * a boilerplate for [.net interactive notebooks](https://github.com/holgerimbery/devcontainer_dotnet_interactive_notebooks)
 
