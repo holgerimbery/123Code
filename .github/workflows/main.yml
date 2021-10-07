@@ -27,8 +27,4 @@ jobs:
           echo "Setting package version $tag"
           npm --no-git-tag-version version "$tag"
           vsce package
-      - name: Publish extension to marketplace
-        env:
-          AZURE_TOKEN: ${{ secrets.AZURE_TOKEN }}
-        run: |
-          echo "vsce publish -p "$AZURE_TOKEN""
+
