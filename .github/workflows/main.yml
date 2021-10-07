@@ -24,5 +24,6 @@ jobs:
       - name: Package extension
         run: |
           tag=${GITHUB_REF#refs/tags/}
+          echo "Setting package version $tag"
           vsce package
 
