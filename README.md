@@ -1,3 +1,5 @@
+![CICD Release Pipeline](https://github.com/holgerimbery/123Code/actions/workflows/main.yml/badge.svg)
+
 # 123Code
 [Microsoft Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123code)
 
