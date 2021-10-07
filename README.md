@@ -29,7 +29,7 @@ The tutorials below will walk you through running Visual Studio Code with the Re
 * [Develop in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial)
   Run Visual Studio Code in a Docker Container.
 * [GitHub Codespaces](https://docs.github.com/github/developing-online-with-codespaces/using-codespaces-in-visual-studio-code)
-  Connect to a codespace with Visual Studio Code.
+  Connect to a Codespace with Visual Studio Code.
 
 ## Video
 [![Demo](https://j.gifs.com/MZ9ElB.gif)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
@@ -74,7 +74,7 @@ Remotely browse and edit a GitHub repository (preview)
 * Working changes are independent to the branch — allows working on multiple branches simultaneously!
    * When you pause work on one branch and switch to another one, you don’t need to stash your changes — they’ll stay on the previous branch, and when you go back, your changes will be there to pick up right where you left off
 * Automatically detects if there are new changes on GitHub.
-   * An indicator of the number of unpulled commits will be shown in the status bar
+   * An indicator of the number of "unpulled" commits will be shown in the status bar
    * Files with potential merge conflicts (e.g. you've modified the same file as someone else) will be highlighted
 * Options to continue working in a more powerful environment
    * When you choose Continue Working on... from the Command Palette or from the remote indicator, you're presented the option to continue your work locally, in a container volume (if you have the Remote - Containers extension), or in GitHub Codespaces
