@@ -125,12 +125,3 @@ You can open, create, delete, fork and star gists and repositories, and then sea
 
 ## Contributions are welcome
 if you come across an extension that enhances your productivity, please feel free to submit a pull request to add it!
-
-## .devcontainer - as a proof of concept
-The extension pack itself is being created with this ideas and elements. 
-vsce to package and publish is available within the development container within this repository, there is no need to install vsce in your local environment.
-
-### places to get container definitions to work completely independent
-* in the remote container extension based on [Microsoft's devcontainers](https://github.com/microsoft/vscode-dev-containers)
-* a boilerplate for [machine learning with vscode and Azure ML](https://github.com/holgerimbery/devcontainer_azure_ml_experiments)
-* a boilerplate for [.net interactive notebooks](https://github.com/holgerimbery/devcontainer_dotnet_interactive_notebooks)
