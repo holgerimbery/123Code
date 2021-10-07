@@ -1,4 +1,5 @@
 # 123Code
+[Microsoft Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123code)
 
 > **_NOTE:_**  It is **strongly recommended** that you use the [Insiders Edition of Visual Studio Code](https://code.visualstudio.com/insiders/), which is updated daily, and includes the latest and most up-to-date features.
 
@@ -133,6 +134,3 @@ vsce to package and publish is available within the development container within
 * in the remote container extension based on [Microsoft's devcontainers](https://github.com/microsoft/vscode-dev-containers)
 * a boilerplate for [machine learning with vscode and Azure ML](https://github.com/holgerimbery/devcontainer_azure_ml_experiments)
 * a boilerplate for [.net interactive notebooks](https://github.com/holgerimbery/devcontainer_dotnet_interactive_notebooks)
-
-
-![made in berlin](https://github.com/holgerimbery/123Code/blob/main/made-in-berlin-badge.png)
