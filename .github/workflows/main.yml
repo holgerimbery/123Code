@@ -24,7 +24,5 @@ jobs:
       - name: Package extension
         run: |
           tag=${GITHUB_REF#refs/tags/}
-          echo "Setting package version $tag"
-          npm --no-git-tag-version version "$tag"
           vsce package
 
