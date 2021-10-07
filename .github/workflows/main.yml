@@ -29,6 +29,6 @@ jobs:
           vsce package
       - name: Publish extension to marketplace
         env:
-          #AZURE_TOKEN: ${{ secrets.AZURE_TOKEN }}
+          AZURE_TOKEN: ${{ secrets.AZURE_TOKEN }}
         run: |
-          #vsce publish -p "$AZURE_TOKEN"
+          echo "vsce publish -p "$AZURE_TOKEN""
