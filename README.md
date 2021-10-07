@@ -20,7 +20,16 @@ No source code needs to be on your local machine to get these benefits. Each ext
 
 
 ## Tutorial
-[How to develop in remote environments](https://the.cognitiveservices.ninja/blog/#visual-studio-code-remote-development)
+The tutorials below will walk you through running Visual Studio Code with the Remote Development extensions.
+
+* [Remote via SSH](https://code.visualstudio.com/docs/remote/ssh-tutorial)
+  Connect to remote and virtual machines with Visual Studio Code via SSH.
+* [Work in WSL](https://code.visualstudio.com/docs/remote/wsl-tutorial)
+  Run Visual Studio Code in Windows Subsystem for Linux.
+* [Develop in Containers](https://code.visualstudio.com/docs/remote/containers-tutorial)
+  Run Visual Studio Code in a Docker Container.
+* [GitHub Codespaces](https://docs.github.com/github/developing-online-with-codespaces/using-codespaces-in-visual-studio-code)
+  Connect to a codespace with Visual Studio Code.
 
 ## Video
 [![Demo](https://j.gifs.com/MZ9ElB.gif)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
