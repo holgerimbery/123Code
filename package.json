@@ -2,7 +2,7 @@
     "name": "123code",
     "displayName": "123Code",
     "publisher": "holgerimbery",
-    "description": "a extension pack for starting to develop without worrying about to destroy your machine",
+    "description": "an extension pack for starting to develop without worrying about to destroy your machine",
     "icon": "assets/logo256x256.png",
     "version": "0.0.0",
     "repository": {
