@@ -1,3 +1,7 @@
+## v0.1.8 (10/08/2021)
+- removed GistPad, LiveShare, LiveShare Whiteboard and introduced a new sister extension pack 123Collab on
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123collab)
+
 ## v0.1.6 (10/08/2021)
 - add: remote ssh edit config
 
