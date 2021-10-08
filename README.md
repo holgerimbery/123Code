@@ -91,6 +91,11 @@ Open any folder on a remote machine using SSH and take advantage of VS Code's fu
 * Access an existing development environment from multiple machines or locations.
 * Debug an application running somewhere else such as a customer site or in the cloud
 
+#### [Remote SSH: Editing Configuration Files](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit)
+The Remote - SSH extension lets you use any remote machine with a SSH server as your development environment.
+<br>
+This extension complements the Remote - SSH extension with syntax colorization, keyword intellisense, and simple snippets when editing SSH configuration files.
+
 #### [Azure Virtual Machine](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurevirtualmachines)
 Create and manage Azure Virtual Machines directly from VS Code.
 

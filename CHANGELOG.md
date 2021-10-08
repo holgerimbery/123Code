@@ -1,3 +1,6 @@
+## 0.1.6 (10/08/2021)
+- add: remote ssh edit config
+
 ## 0.1.5 (10/07/2021)
 
 change to release automation, no functional additions
