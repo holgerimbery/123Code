@@ -35,6 +35,8 @@ The tutorials below will walk you through running Visual Studio Code with the Re
   Connect to a Codespace with Visual Studio Code.
 
 ## Video
+click on gif to see full movie
+<br>
 [![Demo](https://j.gifs.com/MZ9ElB.gif)](https://www.youtube.com/watch?v=8CSLgsIS_2k)
 * "open" a repository to edit, without cloning it to a local filesystem
 * clone a repository to a container to edit or take actions on it, here: execute a task
