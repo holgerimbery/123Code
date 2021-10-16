@@ -23,6 +23,7 @@
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurevirtualmachines",
         "ms-azuretools.vscode-docker",
-        "formulahendry.docker-explorer"
+        "formulahendry.docker-explorer",
+        "cschleiden.vscode-github-actions"
     ]
 }
