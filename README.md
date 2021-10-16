@@ -105,6 +105,9 @@ Create and manage Azure Virtual Machines directly from VS Code.
 The Azure Account extension provides a single Azure sign-in and subscription filtering experience for all other Azure extensions. It makes Azure's Cloud Shell service available in VS Code's integrated terminal.
 
 ### General Helpers
+#### [Github Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+GitHub Actions workflows and runs for github.com hosted repositories in VS Code
+
 #### [Windows Terminal Integration](https://marketplace.visualstudio.com/items?itemName=Tyriar.windows-terminal)
 Windows Terminal Utility for VS Code.
 <br>
