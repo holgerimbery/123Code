@@ -27,6 +27,11 @@ jobs:
           echo "Setting package version $tag"
           npm --no-git-tag-version version "$tag"
           vsce package
+          
+      - uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Add vsix'
+          add: '*.vsix --force'
       - name: Publish extension to marketplace
         env:
           AZURE_TOKEN: ${{ secrets.AZURE_TOKEN }}
