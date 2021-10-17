@@ -14,7 +14,7 @@
 	"settings": {},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": ["cschleiden.vscode-github-actions"],
+	"extensions": ["cschleiden.vscode-github-actions", "streetsidesoftware.code-spell-checker"],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
