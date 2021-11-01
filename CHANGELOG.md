@@ -1,3 +1,6 @@
+## v0.2.1 (11/01/2021)
+move to org, updated links
+
 ## v0.2.0 (10/16/2021)
 - add: github actions
 
