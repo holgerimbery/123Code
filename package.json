@@ -4,7 +4,7 @@
     "publisher": "holgerimbery",
     "description": "an extension pack for starting to develop without worrying about to destroy your machine",
     "icon": "assets/logo256x256.png",
-    "version": "0.2.2",
+    "version": "0.0.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/the-cognitiveservices-ninja/123Code"},
