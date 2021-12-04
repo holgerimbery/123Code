@@ -19,11 +19,11 @@
         "github.remotehub-insiders",
         "ms-vscode-remote.remote-ssh-edit",
         "Alexey-Strakh.stackoverflow-search",
-        "tyriar.windows-terminal",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurevirtualmachines",
         "ms-azuretools.vscode-docker",
         "formulahendry.docker-explorer",
-        "cschleiden.vscode-github-actions"
+        "cschleiden.vscode-github-actions",
+        "ms-vscode.PowerShell"
     ]
 }
