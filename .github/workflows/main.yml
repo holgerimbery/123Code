@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [12.x]
         os-version: [ubuntu-18.04]
 
     steps:
@@ -23,9 +23,9 @@ jobs:
         run: npm install -g vsce
       - name: Package extension
         run: |
-          # tag=${GITHUB_REF#refs/tags/}
-          # echo "Setting package version $tag"
-          # npm --no-git-tag-version version "$tag"
+           tag=${GITHUB_REF#refs/tags/}
+           echo "Setting package version $tag"
+           npm --no-git-tag-version version "$tag"
           vsce package
       - name: Publish extension to marketplace
         env:
