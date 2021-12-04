@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.2.3 (12/04/2021)
+
+- removed: windows terminal integration
+- integrated: Powershell extension by Microsoft
+- resolved: pipeline error
+-
 ## v0.2.2 (12/04/2021)
 
 - removed: windows terminal integration
