@@ -141,9 +141,9 @@ Extension made to do a stack overflow search straight from VSCode
 <br>
 Open a particular Windows Terminal using the default profile or select a custom one on a folder via the explorer's right-click context menu.
 
-#### Collaboration
+#### 123Family
 
-please find a sister extension pack [123Collab](https://marketplace.visualstudio.com/items?itemName=holgerimbery.123collab) with everything you need for collaboration on code.
+please find other extension packs [one-two-three](https://marketplace.visualstudio.com/publishers/holgerimbery)
 
 ### Contributions are welcome
 
