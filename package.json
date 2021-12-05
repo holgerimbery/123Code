@@ -17,6 +17,7 @@
     "extensionPack": [ 
         "ms-vscode-remote.vscode-remote-extensionpack",
         "github.remotehub-insiders",
+        "GitHub.codespaces",
         "ms-vscode-remote.remote-ssh-edit",
         "Alexey-Strakh.stackoverflow-search",
         "ms-vscode.azure-account",
