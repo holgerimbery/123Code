@@ -89,6 +89,16 @@ Remotely browse and edit a GitHub repository (preview)
 * Options to continue working in a more powerful environment
   * When you choose to Continue Working on... from the Command Palette or the remote indicator, you will have the option to continue your work locally, in a container volume (if you have the Remote - Containers extension), or in GitHub Codespaces
 
+#### Github Codespaces
+
+##### [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces)
+
+for Github Codespaces - a instant dev environment  
+
+[GitHub Codespaces](https://github.com/features/codespaces) provides cloud-hosted development environments for any activity - whether it's a long-term project, or a short-term task like reviewing a pull request. You can connect to Codespaces from Visual Studio Code or a browser-based editor that's accessible anywhere.
+
+Additionally, GitHub Codespaces brings many of the benefits of DevOps, which have typically been reserved for production workloads, like repeatability and reliability, to development environments. GitHub Codespaces is also personalizable to allow developers to leverage the tools, processes and configurations that they have come to love and rely on - truly the best of both worlds!
+
 #### Remote (Virtual) Machines
 
 ##### [Remote SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
