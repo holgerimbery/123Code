@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.2.5 (28/01/2022)
+- change github.remotehub.insiders to github.remotehub
+
 ## v0.2.4 (12/05/2021)
 
 - add: Github Codespaces
